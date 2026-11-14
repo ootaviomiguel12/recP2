@@ -143,3 +143,5 @@ public class Main {
         System.out.println("Terceiro colocado: " + time3 + ". Pontuação: " + terceiroMaior);
     }
 }
+
+
